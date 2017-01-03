@@ -1,0 +1,26 @@
+{
+    "COEP-Vibration_and_Acoustics_Lab.JPG": {
+        "contentType": "image/jpeg", 
+        "content_son": {
+            "category": "asset", 
+            "course": "MECH04", 
+            "name": "COEP-Vibration_and_Acoustics_Lab.JPG", 
+            "org": "CEO-Pune", 
+            "revision": null, 
+            "run": "Anytime", 
+            "tag": "c4x"
+        }, 
+        "displayname": "COEP-Vibration and Acoustics Lab.JPG", 
+        "filename": "asset-v1:CEO-Pune+MECH04+Anytime+type@asset+block@COEP-Vibration_and_Acoustics_Lab.JPG", 
+        "import_path": null, 
+        "locked": false, 
+        "thumbnail_location": [
+            "c4x", 
+            "CEO-Pune", 
+            "MECH04", 
+            "thumbnail", 
+            "COEP-Vibration_and_Acoustics_Lab-JPG.jpg", 
+            null
+        ]
+    }
+}
