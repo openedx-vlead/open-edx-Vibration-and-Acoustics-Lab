@@ -3,21 +3,21 @@
         "contentType": "image/jpeg", 
         "content_son": {
             "category": "asset", 
-            "course": "MECH04", 
+            "course": "mech04", 
             "name": "COEP-Vibration_and_Acoustics_Lab.JPG", 
-            "org": "CEO-Pune", 
+            "org": "Virtual-Labs", 
             "revision": null, 
             "run": "Anytime", 
             "tag": "c4x"
         }, 
         "displayname": "COEP-Vibration and Acoustics Lab.JPG", 
-        "filename": "asset-v1:CEO-Pune+MECH04+Anytime+type@asset+block@COEP-Vibration_and_Acoustics_Lab.JPG", 
+        "filename": "asset-v1:Virtual-Labs+mech04+Anytime+type@asset+block@COEP-Vibration_and_Acoustics_Lab.JPG", 
         "import_path": "COEP-Vibration and Acoustics Lab.JPG", 
         "locked": false, 
         "thumbnail_location": [
             "c4x", 
-            "CEO-Pune", 
-            "MECH04", 
+            "Virtual-Labs", 
+            "mech04", 
             "thumbnail", 
             "COEP-Vibration_and_Acoustics_Lab-JPG.jpg", 
             null
